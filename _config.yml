@@ -17,10 +17,10 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Zhouyang.cn
-organization: Shenzhen, CN.
-organization_url: https://www.zhouyang.cn
+organization: 
+organization_url: 
 github_username: 5onion
-location: Shenzhen, China
+location: Shenzhen, CN
 email: me@zhouyang.cn
 
 # ---------------- #
